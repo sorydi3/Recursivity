@@ -1,0 +1,4 @@
+﻿  recursividadex.cpp
+c:\users\sam\source\repos\recursividad_ex\recursividad_ex\recursividadex.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  recursividad_ex.vcxproj -> C:\Users\sam\source\repos\recursividad_ex\Debug\recursividad_ex.exe
+  recursividad_ex.vcxproj -> C:\Users\sam\source\repos\recursividad_ex\Debug\recursividad_ex.pdb (Partial PDB)
